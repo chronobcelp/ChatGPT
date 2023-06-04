@@ -1,4 +1,4 @@
-# ChatGPT
+# LLM創薬
 
 I would like to propose a more active one that targets the TKB domain of the CBL-B protein and the same binding site.
 The PDB ID is 8GCY.
