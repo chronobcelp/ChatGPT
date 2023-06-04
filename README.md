@@ -10,6 +10,7 @@ Please do not include N-N and S-S bonds.
 I don't care about the activity, but please suggest 10 compounds anyway. Thank you in advance.
 
 index,SMILES,IC50
+
 116,Cn1cnnc1C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(F)(F)F,10000.0
 
 123,C[C@@H](Cc1nncn1C)c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O,10000.0
