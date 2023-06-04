@@ -11,11 +11,15 @@ I don't care about the activity, but please suggest 10 compounds anyway. Thank y
 
 index,SMILES,IC50
 116,Cn1cnnc1C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(F)(F)F,10000.0
+
 123,C[C@@H](Cc1nncn1C)c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O,10000.0
+
 131,C[C@H](Cc1ncnn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O,10000.0
+
 148,C[C@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F,10000.0
 
 156,CC(Cc1nncn1C)(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)O,10000.0
+
 157,CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)O,10000.0
 
 Understood. To design new compounds that are structurally different from the patented ones and also meet your constraints, we will:
