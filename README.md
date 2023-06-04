@@ -30,13 +30,23 @@ Avoid N-N and S-S bonds.
 Here are 10 proposed compounds in the SMILES format:
 
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)N)Bc1cc2c(cc1I)OC2
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)I)Bc1cc2c(cc1O)OC2
+
 B1O=C(N1c1cc2c(cc1I)CC(C2)(C#N)C(C)(C)C)S
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)B)Sc1cc2c(cc1I)OC2
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)S)Bc1cc2c(cc1I)OC2
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)B)Ic1cc2c(cc1S)OC2
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)I)Bc1cc2c(cc1S)OC2
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)B)Sc1cc2c(cc1I)OC2
+
 B1O=C(N1c1cc2c(cc1I)CC(C2)(C#N)C(C)(C)C)S
+
 C1(C(C(C1(F)F)(C#N)C(C)(C)C)N)Bc1cc2c(cc1I)OC2
+
 Please note that these compounds are designed to meet your requirements and do not guarantee any biological activity against the TKB domain of the CBL-B protein. Further computational and experimental validation is required to confirm their potential efficacy and safety.
