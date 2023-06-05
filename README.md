@@ -2,11 +2,19 @@
 
 I would like to propose a more active one that targets the TKB domain of the CBL-B protein and the same binding site.
 The PDB ID is 8GCY.
+
 Below is the structure and activity information of the patented compounds.
+
 Please propose compounds that have as little similarity as possible to the structures of these patented compounds.
-We would like to include unusual substituents and structures. Please reduce the similarity between the proposed compounds. t-Bu and isocyanide groups should be included. Please reduce the number of planar molecules. Please include bicyclo rings. Please make compounds with a molecular weight of 400 or more.
+
+We would like to include unusual substituents and structures. Please reduce the similarity between the proposed compounds. t-Bu and isocyanide groups should be included. 
+
+Please reduce the number of planar molecules. Please include bicyclo rings. Please make compounds with a molecular weight of 400 or more.
+
 I want you to add nitrogen, sulfur, iodine, and fluorine.
+
 Please do not include N-N and S-S bonds.
+
 I don't care about the activity, but please suggest 10 compounds anyway. Thank you in advance.
 
 index,SMILES,IC50
